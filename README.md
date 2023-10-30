@@ -1,2 +1,4 @@
-# This is our github tutorial repository.
-It is an example to how to publish local work into remote repository.
+# About me
+I'm Ria De. I'm a second-year master's student in Digital Humanities and graduating in May 2024. I'm from an English literature background and now trying to explore humanities in a new way with the help of technology. Before joining Grads school, I taught Middle School Students in India. Currently, I'm working as a Web Content Developer at the Division of Student Development, LUC. I'm looking forward to learning more about how to make a web application more user-friendly and accessible to users by understanding the underlying structure of the website.
+
+I'm obsessed with exploring the world. meeting new people, welcoming their culture, and discovering their local foods. I love to do painting, hiking, and traveling as recreation. I prefer to spend my free time watching thriller movies, or camping with friends.
